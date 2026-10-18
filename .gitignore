@@ -1,0 +1,36 @@
+# ---- 后端 ----
+server/target/
+*.class
+*.jar
+*.war
+!server/.mvn/wrapper/maven-wrapper.jar
+*.log
+logs/
+
+# ---- 前端 ----
+web/node_modules/
+web/dist/
+web/dist-ssr/
+web/.vite/
+web/.env
+web/.env.local
+web/.env.*.local
+npm-debug.log*
+yarn-error.log*
+
+# ---- IDE ----
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+
+# ---- 系统 ----
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ---- 素材 ----
+# 全景原始素材体积大，不入库；只保留演示用的小图
+*.fbx

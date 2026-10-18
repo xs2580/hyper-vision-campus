@@ -1,0 +1,33 @@
+{
+  "name": "hyper-vision-campus-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "超维新视界 · 沉浸式校园全景与 AI 智能导览平台（前端）",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .vue,.js --fix"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@tdesign-vue-next/chat": "^0.4.6",
+    "axios": "^1.7.2",
+    "element-plus": "^2.4.4",
+    "tdesign-icons-vue-next": "^0.4.1",
+    "tdesign-vue-next": "^1.17.2",
+    "three": "^0.180.0",
+    "vue": "^3.2.38",
+    "vue-router": "^4.1.5"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.1.4",
+    "@vitejs/plugin-vue": "^3.0.3",
+    "@vue/eslint-config-prettier": "^7.0.0",
+    "eslint": "^8.22.0",
+    "eslint-plugin-vue": "^9.3.0",
+    "prettier": "^2.7.1",
+    "vite": "^3.0.9"
+  }
+}

@@ -1,0 +1,35 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: hyper-vision-campus
+  datasource:
+    url: jdbc:mysql://${DB_HOST:localhost}:${DB_PORT:3306}/${DB_NAME:hyper_vision}?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+    username: ${DB_USER:root}
+    password: ${DB_PASSWORD:}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  servlet:
+    multipart:
+      max-file-size: 512MB
+      max-request-size: 512MB
+
+mybatis:
+  configuration:
+    # 下划线转驼峰：start_id -> startId
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    type-aliases-package: com.webproject.pojo
+
+# 全景素材根目录。image / video 表中的 url 字段存的是绝对路径，
+# 迁移到服务器后把这里换成实际目录，或改造成对象存储（OSS / MinIO）。
+app:
+  media:
+    root: ${MEDIA_ROOT:E:/resource}
+
+# RAGFlow 检索增强服务。API Key 请通过环境变量注入，不要写进仓库。
+# 当前仓库中的 AI 相关 Java 代码处于注释状态（见 README「AI 助手」一节说明）。
+ragflow:
+  base-url: ${RAGFLOW_BASE_URL:http://localhost}
+  api-key: ${RAGFLOW_API_KEY:}
+  default-chat-id: ${RAGFLOW_CHAT_ID:}
