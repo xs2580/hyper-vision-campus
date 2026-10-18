@@ -18,7 +18,6 @@
   <br />
   <img src="https://img.shields.io/badge/Vue-3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
   <img src="https://img.shields.io/badge/Three.js-0.180-242938?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Vite-3-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite 3" />
   <img src="https://img.shields.io/badge/RAGFlow-知识库问答-FF6A00?style=for-the-badge" alt="RAGFlow" />
   <img src="https://img.shields.io/badge/License-MIT-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License MIT" />
 </p>
