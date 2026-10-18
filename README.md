@@ -10,7 +10,17 @@
 
 > **省级立项** S202510722050 · **2025.09** 立项 · **2026.04** 论文见刊 · **15 个月** 从申报到发表
 
-`Java 17` · `Spring Boot 3.5` · `Vue 3` · `Three.js` · `MySQL 8` · `RAGFlow`
+<p align="center">
+  <img src="https://img.shields.io/badge/JDK-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JDK 17" />
+  <img src="https://img.shields.io/badge/Spring_Boot-3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot 3.5" />
+  <img src="https://img.shields.io/badge/MyBatis-3-D77310?style=for-the-badge" alt="MyBatis 3" />
+  <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 8.0" />
+  <img src="https://img.shields.io/badge/Vue-3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/Three.js-0.180-242938?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Vite-3-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite 3" />
+  <img src="https://img.shields.io/badge/RAGFlow-知识库问答-FF6A00?style=for-the-badge" alt="RAGFlow" />
+  <img src="https://img.shields.io/badge/License-MIT-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License MIT" />
+</p>
 
 ---
 
