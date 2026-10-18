@@ -540,11 +540,11 @@ npm run dev
 <p align="center"><sub>知网收录页：题目、作者、摘要、基金资助与专辑分类</sub></p>
 
 <p align="center">
-  <img src="docs/images/08-paper-first-page.jpg" width="620" alt="论文首页" />
+  <img src="docs/images/08-paper-first-page.jpg" width="700" alt="论文首页" />
 </p>
 
 <p align="center">
-  <img src="docs/images/09-journal-cover.jpg" width="460" alt="期刊封面" />
+  <img src="docs/images/09-journal-cover.jpg" width="520" alt="期刊封面" />
 </p>
 
 **入驻校园创业孵化基地**　入选咸阳师范学院第十五批校园创业孵化基地，计算机学院当批唯一入选的团队，获 5000 元资助基金。下图为该批次入选项目名单。
