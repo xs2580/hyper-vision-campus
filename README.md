@@ -10,6 +10,16 @@
 
 > **省级立项** S202510722050 · **2025.09** 立项 · **2026.04** 论文见刊 · **15 个月** 从申报到发表
 
+<!--
+  技术栈徽章，改法全在 URL 里：
+  https://img.shields.io/badge/标签-内容-颜色?style=for-the-badge&logo=图标名&logoColor=white
+  · 标签里的空格写成 _，字面短横写成 --（MyBatis-Plus 要写成 MyBatis--Plus）
+  · 颜色是十六进制但不带 #，也可以写 green / blue 这类英文色名
+  · 图标名去 simpleicons.org 搜，填小写名（openjdk、springboot、mysql、vuedotjs、threedotjs）
+    搜不到就不写 logo 参数，留纯色块
+  · style 换成 flat / flat-square / plastic 可整体换风格
+  · 加一枚 = 复制一行 img；删一枚 = 删掉那一行；<br /> 决定在哪里换行
+-->
 <p align="center">
   <img src="https://img.shields.io/badge/JDK-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JDK 17" />
   <img src="https://img.shields.io/badge/Spring_Boot-3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot 3.5" />
