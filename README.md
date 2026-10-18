@@ -515,11 +515,11 @@ npm run dev
 
 ## 成果与荣誉
 
-**省级立项**
+**省级立项**　陕西省 2025 年大学生创新创业训练计划项目，项目编号 S202510722050，由咸阳师范学院计算机学院推荐立项。
 
-陕西省 2025 年大学生创新创业训练计划项目，项目编号 S202510722050，计算机学院。
-
-![立项证书](docs/images/06-provincial-approval.jpg)
+<p align="center">
+  <img src="docs/images/06-provincial-approval.jpg" width="100%" alt="省级立项证书" />
+</p>
 
 **论文发表**
 
@@ -540,15 +540,18 @@ npm run dev
 <p align="center"><sub>知网收录页：题目、作者、摘要、基金资助与专辑分类</sub></p>
 
 <p align="center">
-  <img src="docs/images/08-paper-first-page.jpg" width="46%" alt="论文首页" />
-  <img src="docs/images/09-journal-cover.jpg" width="46%" alt="期刊封面" />
+  <img src="docs/images/08-paper-first-page.jpg" width="620" alt="论文首页" />
 </p>
 
-**入驻校园创业孵化基地**
+<p align="center">
+  <img src="docs/images/09-journal-cover.jpg" width="460" alt="期刊封面" />
+</p>
 
-入选咸阳师范学院第十五批校园创业孵化基地，计算机学院当批唯一入选的团队，获 5000 元资助基金。
+**入驻校园创业孵化基地**　入选咸阳师范学院第十五批校园创业孵化基地，计算机学院当批唯一入选的团队，获 5000 元资助基金。下图为该批次入选项目名单。
 
-![入驻名单](docs/images/07-incubator-list.png)
+<p align="center">
+  <img src="docs/images/07-incubator-list.png" width="100%" alt="第十五批校园创业孵化基地入选名单" />
+</p>
 
 ## 团队与分工
 
