@@ -73,8 +73,11 @@ https://github.com/user-attachments/assets/43d3e53e-0c05-47d7-b4ad-15d66712589a
 **AI 助手「咸师小匠」**　多会话、流式输出、Markdown 渲染。回答走校园知识库检索，会给出依据而不是凭空生成。
 
 <p align="center">
-  <img src="docs/images/04-ai-assistant.png" width="49%" alt="AI 助手会话" />
-  <img src="docs/images/05-ai-assistant-rag.png" width="49%" alt="AI 助手基于知识库的回答" />
+  <img src="docs/images/04-ai-assistant.png" width="100%" alt="AI 助手会话" />
+</p>
+
+<p align="center">
+  <img src="docs/images/05-ai-assistant-rag.png" width="100%" alt="AI 助手基于知识库的回答" />
 </p>
 
 ## 要解决的问题
