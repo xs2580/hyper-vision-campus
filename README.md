@@ -48,10 +48,10 @@
 
 ## 演示视频
 
-[![点击播放演示视频](docs/images/10-demo-poster.jpg)](https://github.com/xs2580/hyper-vision-campus/releases/download/v1.0.0/hyper-vision-demo-1080p.mp4)
+https://github.com/user-attachments/assets/43d3e53e-0c05-47d7-b4ad-15d66712589a
 
 时长 1 分 43 秒，配音讲解，按「首页 → 全景漫游 → 场景跳转 → 校园导航 → AI 助手」的顺序完整走了一遍真实操作流程。
-在线播放卡顿的话，可以直接下载：[1080p 版本](https://github.com/xs2580/hyper-vision-campus/releases/download/v1.0.0/hyper-vision-demo-1080p.mp4)。
+想看清细节的话，可以下载 [1080p 版本](https://github.com/xs2580/hyper-vision-campus/releases/download/v1.0.0/hyper-vision-demo-1080p.mp4)。
 
 > 视频里的校园是真实拍摄的：用影石 360 全景相机在校园里走了整整两天，拍了东门、东门广场、中心广场、图书馆、教学楼、食堂等场景，再逐段剪辑成「场景图 + 过渡镜头」。
 
